@@ -1,5 +1,7 @@
 # MixingParticleTracking
-Particle tracking code developed for 2019 Discovery Labs for year 3 Chemical Engineering at Imperial College London
+Particle tracking code developed for 2019 Discovery Labs for year 3 Chemical Engineering at Imperial College London.
+
+Need MATLAB R2019B with computer vision toolbox (and possibly deep learning toolbox) installed. May work with earlier versions but not tested.
 
 Feed in video file in any format acceptable by MATLAB. Please note that framerate is rounded as certain inbuilt functions won't accept non-integer framerate values.
 
