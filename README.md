@@ -23,4 +23,4 @@ sd_streamlines function plots pathlines as quivers and is not called in main sd_
 
 Important to ensure good spatial registration (especially in orientation: use spirit level or other tool) for this code to function correctly. Note there is no correction for distortion applied: this is likely to be next major development of this code.
 
-If you have any comments or improvements then please email me at sd1816@ic.ac.uk
+If you have any comments or improvements then please email these to sd1816@ic.ac.uk
